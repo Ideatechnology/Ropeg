@@ -1,0 +1,61 @@
+<?php 
+	
+?>
+<html>
+<head>
+</head>
+<body>
+
+	<table width="80%px" cellpadding="3px" class="tbbrowse" border=1>
+		<tr class="brheader" align="center">
+			<td align="center" width="50px">TAHUN</td>
+			<td align="center" width="80px">PRIA</td>
+			<td align="center" width="50px">% <br /> PERTUMBUHAN</td>
+			<td align="center" width="80px">WANITA</td>
+			<td align="center" width="50px">% <br /> PERTUMBUHAN</td>
+			<td align="center" width="80px">JUMLAH</td>
+			<td align="center" width="50px">% <br /> PERTUMBUHAN</td>
+		</tr>
+		<tr class="brheader" align="center">
+			<td align="center" width="50px">(1)</td>
+			<td align="center" width="80px">(2)</td>
+			<td align="center" width="50px">(3)</td>
+			<td align="center" width="80px">(4)</td>
+			<td align="center" width="50px">(5)</td>
+			<td align="center" width="80px">(6)</td>
+			<td align="center" width="50px">(7)</td>
+		</tr>
+		
+		<?php 
+			require_once ("../MZSetup/MZconstDB.php");
+			require_once ("../MZLib/MZFungsi.php");
+	
+			global $fLib;
+			$SQL = " select yr, sum(male) as male, sum(fema) as fema, sum(tot) as tot
+					from (select yr, 
+							sum((case when sex=1 then jml end)) as male,
+							sum((case when sex=2 then jml end)) as fema,
+							sum(jml) as tot
+						   from fact_agesexgol 
+						   group by yr) as dt
+						   group by yr ";
+			$ret = $fLib->query ($SQL);
+			$i = 1;
+			while ($row = $ret->fetch_array () ) {
+				echo "<tr>";
+				echo "<td align=\"center\"> " . $row['yr'] . " </td>";
+				echo "<td align=\"right\"> " . $row['male'] . " </td>";
+				echo "<td align=\"right\"> </td>";
+				echo "<td align=\"right\"> " . $row['fema'] . " </td>";
+				echo "<td align=\"right\"> </td>";
+				echo "<td align=\"right\"> " . $row['tot'] . " </td>";
+				echo "<td align=\"right\">  </td>";
+				echo "</tr>";
+				$i ++;
+			}
+		?>
+		
+</table>
+	
+</body>
+</html>

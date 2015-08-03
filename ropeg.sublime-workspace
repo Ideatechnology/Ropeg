@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"kate",
+				"kategori_row"
+			],
+			[
+				"query",
+				"query_row"
+			],
+			[
+				"qu",
+				"query_row"
+			],
+			[
+				"ba",
+				"banner2_row"
+			],
+			[
+				"no",
+				"no_gallery"
+			],
+			[
+				"gall",
+				"gallery_foto"
+			],
+			[
+				"slide",
+				"slider_row"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/modules/bkevents/views/v_edit.php",
+			"settings":
+			{
+				"buffer_size": 3000,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/bkevents/views/v_index.php",
+			"settings":
+			{
+				"buffer_size": 2822,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/bnews/views/v_edit.php",
+			"settings":
+			{
+				"buffer_size": 5048,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents/controllers",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents/views"
+	],
+	"file_history":
+	[
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents/views/v_add.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents/controllers/bkevents.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents/views/v_edit.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bnews/views/v_add.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bnews/views/v_edit.php",
+		"/D/FILE DATA/Music/Avengerd/DCEPRESE/application/modules/home/controllers/home.php",
+		"/D/FILE DATA/Music/Avengerd/DCEPRESE/application/modules/widget/libraries/widget_consistence.php",
+		"/D/FILE DATA/Music/Avengerd/DCEPRESE/application/config/application.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bnews/controllers/bnews.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkevents/views/v_index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatpost/views/v_add.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatpost/controllers/bkatpost.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/news/controllers/news.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/news/views/category.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bfiles/views/v_index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bimages/views/v_index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/files/views/v_category.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/files/controllers/files.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatpost/views/v_index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatfile/views/v_index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/news/views/news.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bfiles/views/v_add.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bbanner/controllers/bbanner.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bfiles/views/v_edit.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bfiles/controllers/bfiles.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bbanner/views/v_edit.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatfile/controllers/bkatfile.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatfile/views/v_edit.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatpost/views/v_edit.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/biodata/controllers/biodata.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/forumkonsultasi/controllers/forumkonsultasi.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bkatfile/views/v_add.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bbanner/views/v_add.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/forumkonsultasi/views/index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bbanner/views/v_index.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/biodata/views/forum_konsultasi.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/biodata/views/biodata.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/views/template_footer.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/helpers/_menunavigasi_helper.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/helpers/menunavigasi_helper.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bpublik/views/form.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/submenu/views/v_submenu.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/homepage/views/homepage.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/homepage/controllers/homepage.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bslider/controllers/bslider.php",
+		"/D/APLIKASI/WEB/htdocs/WORKING/2015/ropeg/application/modules/bslider/views/v_index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ):",
+			"make_mem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/modules/bkevents/views/v_edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2209,
+								2209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 179.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/modules/bkevents/views/v_index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/modules/bnews/views/v_edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1427,
+								1458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 431.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ropeg.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
